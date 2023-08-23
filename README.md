@@ -1,7 +1,6 @@
 # TodoApp
 
-![Screenshot_1](https://github.com/mertseku07/todoApp/assets/86346259/61c58b15-e904-4663-9416-4932dd1d0be0)
-
+![Screenshot_1](https://github.com/mertseku07/todoApp/assets/86346259/02c992d8-2b95-41c6-bfab-97903a496fed)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
